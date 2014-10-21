@@ -1,0 +1,11 @@
+prefix=/root/pisen/svn/WPR003N/apps/dmr/mrender/gmediarender/libupnp
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libupnp
+Description: Linux SDK for UPnP Devices
+Version: 1.6.19
+Libs: -pthread  -L${libdir} -lupnp -lthreadutil -lixml 
+Cflags: -pthread -I${includedir}/upnp
+

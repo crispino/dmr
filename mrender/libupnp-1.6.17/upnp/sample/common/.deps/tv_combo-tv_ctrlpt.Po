@@ -1,0 +1,271 @@
+common/tv_combo-tv_ctrlpt.o: common/tv_ctrlpt.c common/tv_ctrlpt.h \
+  common/sample_util.h ../../threadutil/inc/ithread.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/param.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/bin-ccache/../lib/gcc/mips-linux-uclibc/4.3.3/include-fixed/limits.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/bin-ccache/../lib/gcc/mips-linux-uclibc/4.3.3/include-fixed/syslimits.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/limits.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/features.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_config.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_arch_features.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/cdefs.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/posix1_lim.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/local_lim.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/linux/limits.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_local_lim.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/posix2_lim.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/xopen_lim.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/stdio_lim.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/linux/param.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm/param.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/types.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/types.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/wordsize.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/bin-ccache/../lib/gcc/mips-linux-uclibc/4.3.3/include/stddef.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/kernel_types.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/typesizes.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/pthreadtypes.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sched.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/time.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/endian.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/endian.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/select.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/select.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigset.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/time.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/sysmacros.h \
+  ../../upnp/inc/UpnpGlobal.h ../../upnp/inc/UpnpUniStd.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/unistd.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/posix_opt.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/environments.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/confname.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/getopt.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/pthread.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sched.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_clk_tck.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/signal.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/initspin.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigthread.h \
+  ../../ixml/inc/ixml.h ../../upnp/inc/upnp.h ../../upnp/inc/upnpconfig.h \
+  ../../upnp/inc/UpnpGlobal.h ../../upnp/inc/UpnpInet.h \
+  ../../upnp/inc/UpnpUniStd.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/arpa/inet.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/netinet/in.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/stdint.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/wchar.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/socket.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/uio.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uio.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/socket.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sockaddr.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm/socket.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm/sockios.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm/ioctl.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm-generic/ioctl.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/in.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/byteswap.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/net/if.h \
+  ../../upnp/inc/upnptools.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/stdlib.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/waitflags.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/waitstatus.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/alloca.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/string.h \
+  ../../upnp/inc/UpnpString.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/signum.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/siginfo.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigaction.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigcontext.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sgidefs.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigstack.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/ucontext.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/ucontext.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/bin-ccache/../lib/gcc/mips-linux-uclibc/4.3.3/include/stdarg.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/stdio.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_stdio.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/wchar.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_mutex.h \
+  /root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_pthread.h
+
+common/tv_ctrlpt.h:
+
+common/sample_util.h:
+
+../../threadutil/inc/ithread.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/param.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/bin-ccache/../lib/gcc/mips-linux-uclibc/4.3.3/include-fixed/limits.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/bin-ccache/../lib/gcc/mips-linux-uclibc/4.3.3/include-fixed/syslimits.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/limits.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/features.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_config.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_arch_features.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/cdefs.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/posix1_lim.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/local_lim.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/linux/limits.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_local_lim.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/posix2_lim.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/xopen_lim.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/stdio_lim.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/linux/param.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm/param.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/types.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/types.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/wordsize.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/bin-ccache/../lib/gcc/mips-linux-uclibc/4.3.3/include/stddef.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/kernel_types.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/typesizes.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/pthreadtypes.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sched.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/time.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/endian.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/endian.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/select.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/select.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigset.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/time.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/sysmacros.h:
+
+../../upnp/inc/UpnpGlobal.h:
+
+../../upnp/inc/UpnpUniStd.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/unistd.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/posix_opt.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/environments.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/confname.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/getopt.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/pthread.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sched.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_clk_tck.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/signal.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/initspin.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigthread.h:
+
+../../ixml/inc/ixml.h:
+
+../../upnp/inc/upnp.h:
+
+../../upnp/inc/upnpconfig.h:
+
+../../upnp/inc/UpnpGlobal.h:
+
+../../upnp/inc/UpnpInet.h:
+
+../../upnp/inc/UpnpUniStd.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/arpa/inet.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/netinet/in.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/stdint.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/wchar.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/socket.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/uio.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uio.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/socket.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sockaddr.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm/socket.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm/sockios.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm/ioctl.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/asm-generic/ioctl.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/in.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/byteswap.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/net/if.h:
+
+../../upnp/inc/upnptools.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/stdlib.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/waitflags.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/waitstatus.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/alloca.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/string.h:
+
+../../upnp/inc/UpnpString.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/signum.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/siginfo.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigaction.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigcontext.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sgidefs.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/sigstack.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/ucontext.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/sys/ucontext.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/bin-ccache/../lib/gcc/mips-linux-uclibc/4.3.3/include/stdarg.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/stdio.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_stdio.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/wchar.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_mutex.h:
+
+/root/pisen/svn/WPR003N/build/gcc-4.3.3/build_mips/staging_dir/usr/include/bits/uClibc_pthread.h:
